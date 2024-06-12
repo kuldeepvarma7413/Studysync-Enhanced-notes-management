@@ -1,9 +1,9 @@
 # StudySync - Enhanced Notes Management
 
-# Background 
+# Background (Django)
 StudySync is a robust platform for enhanced notes management, initially developed using Django and hosted on Render at www.studysync.co.in. This repository represents a rewritten version of the application using React, Node.js, MongoDB, and Cloudinary.
 
-# About this Project
+# About this Project (ReactJS + NodeJS)
 This project leverages the power of React and Node.js to provide a seamless frontend and backend experience. MongoDB is used for efficient data storage, while Cloudinary handles raw file storage, ensuring scalability and reliability. The platform also features a discussions module, enabling user collaboration and knowledge sharing.
 
 # Getting Started
