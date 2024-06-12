@@ -15,3 +15,5 @@ Visit https://studysync-uunh.onrender.com/ and wait for the response. You should
 Access the application: Once the server is running, navigate to https://studysyncmern.netlify.app to explore the new UI and features of StudySync.
 
 Note: As Render does not provide continuous instances of services, you need to start the server manually before accessing the application.
+
+For any queries related to project please contact on https://www.instagram.com/teamstudysync/ or email to teamstudysync@gmail.com
