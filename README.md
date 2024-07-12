@@ -11,6 +11,4 @@ To use this application, follow these steps:
 
 Access the application: navigate to https://studysync.co.in to explore the new UI and features of StudySync.
 
-Note: As Render does not provide continuous instances of services, you need to start the server manually before accessing the application.
-
 For any queries related to project please contact on https://www.instagram.com/teamstudysync/ or email to teamstudysync@gmail.com
